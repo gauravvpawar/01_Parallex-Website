@@ -1,0 +1,116 @@
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head
+{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    text-align: center;
+}
+
+.wrapper
+{
+    margin: 20px 20px;
+    background-color: black;
+}
+
+.Image-1
+{
+    background-image:  url(Image/Image1.jpg);
+    height: 100vh;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text
+{
+    top: 50%;
+    margin: auto;
+    width: 500px;
+    position: relative;
+    font-size: 40px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    justify-content: baseline;
+    background-color: black;
+}
+
+
+.Heading
+{
+    font-weight: 800;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.Section2
+{
+    text-align: center;
+    margin: auto;
+    padding: 20px 20px;
+}
+
+.para
+{
+    font-size: 18px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+
+.para2
+{
+     color: white;
+     background-color: #121723;
+}
+/* Section 3 */
+.Image-2
+{
+    background-image: url(Image/Image2.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.Section3
+{
+    margin: auto;
+    background-color: #121723;
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+
+.Image-3
+{
+    background-image: url(Image/image4.png);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+.Section4
+{
+    text-align: center;
+    align-items: center;
+    padding: 20px 20px;
+    color: white;
+    background-color: #223d4b;
+}
